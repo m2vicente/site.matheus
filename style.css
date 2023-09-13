@@ -1,0 +1,293 @@
+@font-face {
+   font-family: "Noto_Sans(2)";
+   src: url("fonts/Noto_Sans(2)/NotoSans-Black.ttf");
+}
+
+
+body {
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+   font-family: "times New roman", "georgia", "serif";
+   text-align: start;
+}
+
+#trecho-codigo {
+   font-family: "currier", "andale", monospace;
+}
+
+
+#cabecalho {
+   background-color: rgb(18, 18, 18);
+   color: white;
+   display: flex;
+   padding: 25px;
+   justify-content: space-evenly;
+   align-items: flex-start;
+}
+
+#pg {
+   justify-items: center;
+
+}
+
+.input {
+   justify-content: flex-start;
+}
+
+#aside {
+   flex-direction: column;
+   justify-content: flex-end;
+
+   background-color: rgb(22, 22, 22);
+   color: black;
+
+
+}
+
+#pesquisa {
+   width: 20%;
+   padding: 5px;
+}
+
+
+
+#rede-social {
+   width: 15%;
+   display: flex;
+   justify-content: space-around;
+}
+
+
+body {
+   font-family: "Arial", "Helvetica", "sans-serif";
+
+}
+
+#matheus {
+   justify-content: space-evenly;
+
+
+
+}
+
+#nauta {
+
+   display: flex;
+   justify-content: center;
+}
+
+h2 {
+   font-size: 30px;
+   text-align: center;
+}
+
+h3 {
+   font-size: 30px;
+   text-align: center;
+}
+
+
+h4 {
+   font-size: 30px;
+   text-align: center;
+}
+
+h5 {
+   font-size: 30px;
+   text-align: center;
+}
+
+h6 {
+   font-size: 30px;
+   text-align: center;
+}
+
+#trecho-codigo {
+   font-family: "marquin";
+}
+
+#main {
+   background-color: rgb(24, 22, 50);
+   color: rgb(235, 80, 80);
+}
+
+#apresentação {
+   display: flex;
+   justify-content: center;
+
+}
+
+#marquin {
+   font-size: 50px;
+}
+
+#foto {
+   justify-content: center;
+   align-items: center;
+}
+
+.imagem {
+   float: right;
+   margin-left: 10px;
+
+}
+
+.paragrafo {
+   text-align: center;
+   font-size: 30px;
+}
+
+.jogos {
+   text-align: center;
+   font-size: 30px;
+}
+
+.container {
+   display: flex;
+   align-items: center;
+   flex-direction: row-reverse;
+   float: left; 
+   margin-right: 10px;
+
+}
+
+.imagen{
+   flex-direction: column;
+}
+
+.container5 {
+   align-items: center;
+   justify-content: center;
+}
+
+
+img {
+   margin-right: 10px;
+}
+
+.texto {
+   font-size: 23px;
+}
+
+.fofocas {
+   font-size: 23px;
+   flex-direction: column;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+.email {
+   font-size: 23px;
+}
+
+.idade {
+   font-size: 23px;
+}
+
+.qualidade {
+   font-size: 23px;
+   text-align: center;
+}
+
+.qualidades {
+   font-size: 23px;
+   text-align: center;
+}
+
+.defeito {
+   font-size: 23px;
+   text-align: center;
+}
+
+.defeitos {
+   font-size: 23px;
+   text-align: center;
+}
+
+.cidade {
+   font-size: 23px;
+}
+
+.quality {
+   font-size: 30px;
+   text-align: center;
+}
+
+.defects {
+   font-size: 30px;
+   text-align: center;
+}
+
+.foto {
+   justify-content: center;
+   align-items: center;
+}
+
+.containers {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: row-reverse;
+}
+
+.imagens {
+   justify-content: center;
+   align-items: center;
+}
+
+.imagens {
+   flex-direction: column;
+}
+
+.pesquisa {
+   justify-content: start;
+}
+
+#fofoquinha {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+#nn {
+   flex-direction: column; 
+   float: right; 
+}
+
+.foto {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+
+.Recomendações {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-wrap: wrap;
+}
+
+#perfil {
+   justify-content: center;
+   align-items: center;
+}
+
+#joguin {
+   display: flex;
+}
+
+#ma {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+#fotodificil {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
